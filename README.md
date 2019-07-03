@@ -21,3 +21,11 @@ em português estruturado (portugol) como se fosse um “programa” normal de c
 É um programa de livre uso e distribuição GRÁTIS, e DOMÍNIO PÚBLICO, usado para o  
 ensino de lógica de programação em várias escolas e universidades no Brasil e no exterior.
 
+O que tem no VisualG
+
+O Visualg possui recursos como simulação da “tela” do MS-DOS, visualização de variáveis, “breakpoints”, com 
+ajuda on-line, exporta o algoritmo para um código similar em Pascal, impressão dos fontes e outras características 
+que auxiliam no aprendizado das técnicas de programação.
+Foi propositadamente criado para ajudar aos alunos iniciantes em programação, mas 
+pode ser utilizado por professores e outros autodidatas.
+
