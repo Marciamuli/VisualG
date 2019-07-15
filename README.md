@@ -45,6 +45,7 @@ Inserir bloco de texto: Permite a inserção do conteúdo de um arquivo. A exten
 > **Corrigir Indentação [Ctrl-G]**: Corrige automaticamente a indentação (ou tabulação) do pseudocódigo, tabulando cada comando interno com espaços à esquerda.
 
 > **Numerar linhas**: Ativa ou desativa a exibição dos números das linhas na área à esquerda do editor. A linha e a coluna do editor em que o cursor está em um determinado momento
+
 também são mostradas na barra de status (parte inferior da tela). Por motivos técnicos, esta opção é automaticamente desativada durante a execução do pseudocódigo, mas volta
 a ser ativada logo em seguida. Mostrar variáveis modificadas: Ativa ou desativa a exibição da variável que está sendo modificada. Como o número de variáveis pode ser grande, muitas podem estar fora da
 janela de visualização; quando esta característica está ativada, o VisuAlg rola a grade de exibição de modo que cada variável fique visível no momento em está sendo modificada.
