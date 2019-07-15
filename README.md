@@ -71,6 +71,7 @@ acompanhar o fluxo de execução, os valores das variáveis e a pilha de ativaç
 quando o pseudocódigo não está sendo executado.
 
 > **Liga/desliga breakpoint (F5)**: Insere/remove um ponto de parada na linha em que esteja o cursor. Estes pontos de
+
 parada são úteis para a depuração e acompanhamento da execução dos pseudocódigos, pois permitem a verificação
 dos valores das variáveis e da pilha de ativação de subprogramas.
 
@@ -80,6 +81,7 @@ dos valores das variáveis e da pilha de ativação de subprogramas.
 imita o DOS, simulando a execução de um programa neste ambiente.
 
 > **Gerar valores aleatórios**: Ativa a geração de valores aleatórios que substituem a digitação de dados. A faixa padrão
+
 de valores gerados é de 0 a 100 inclusive, mas pode ser modificada (basta alterar intervalo ao lado). Para a geração de
 dados do tipo caractere, não há uma faixa pré-estabelecida: os dados gerados serão sempre strings de 5 letras
 maiúsculas.
@@ -88,6 +90,7 @@ maiúsculas.
 ativada.
 
 > **Perfil (F7)**: Após a execução de um pseudocódigo, exibe o número de vezes que cada umas das suas linhas foi
+
 executada. É útil para a análise de eficiência (por exemplo, nos métodos de ordenação).
 Mostrar pilha de ativação (Ctrl-F3): Exibe a pilha de subprogramas ativados num dado momento. Convém utilizar
 este comando em conjunto com breakpoints ou com a execução passo a passo.
