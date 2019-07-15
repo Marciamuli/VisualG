@@ -54,7 +54,7 @@ quando o pseudocódigo está sendo executado automaticamente. No entanto, basta 
 execução, a configuração volta a ser desativada.
 
 
-![menu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzIx8n3q-1ekzhpcyDxnFmyv7jq7aVp1jLgTlKBwCLRniqFNRoMg)
+![menu](http://docs.autocom3.com.br/wp-content/uploads/2019/05/8-3.png)
 
 
 
