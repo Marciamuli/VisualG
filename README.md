@@ -53,6 +53,14 @@ Este recurso é especialmente útil quando se executa um pseudocódigo passo a p
 quando o pseudocódigo está sendo executado automaticamente. No entanto, basta clicar este botão para executá-lo automaticamente com a exibição ativada. No final da
 execução, a configuração volta a ser desativada.
 
+
+![menu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzIx8n3q-1ekzhpcyDxnFmyv7jq7aVp1jLgTlKBwCLRniqFNRoMg)
+
+
+
+
+
+
 **O que é o **VisualG**
 
 O Visualg é um programa que permite criar, editar, interpretar e que também executa os algoritmos 
