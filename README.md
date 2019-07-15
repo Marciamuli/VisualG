@@ -102,6 +102,7 @@ este comando em conjunto com breakpoints ou com a execução passo a passo.
 
 
 
+
 O que é o **VisualG**
 
 O Visualg é um programa que permite criar, editar, interpretar e que também executa os algoritmos 
